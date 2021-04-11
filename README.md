@@ -56,7 +56,7 @@ keys to run the first cell. Keep hitting those keys to run each cell after that 
 
 Running this cell will produce an overlay plot of the prices of Bitcoin in a certain month on the two different exchanges. 
 
-![Example]()
+![Example](https://github.com/talibkateeb/Bitcoin-Arbitrage-Opportunity-Analyzer/blob/main/readme_example.png)
 
 ---
 ## License
